@@ -95,6 +95,9 @@ body {
   padding: 14px;
   border-radius: 10px;
 }
+.card .right button:hover {
+  background-color: hsl(158, 37%, 14%);
+}
 @media (max-width: 768px) {
   .container {
     padding-top: 30px;
